@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 *.csv
-*.json
+!data/event_frequency.csv
 
 # Distribution / packaging
 .Python
