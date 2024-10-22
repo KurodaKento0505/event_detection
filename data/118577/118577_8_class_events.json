@@ -1,0 +1,1406 @@
+{
+    "UrlLocal": "",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 0:21",
+            "label": "Throw In",
+            "position": "21720",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 0:51",
+            "label": "Free Kick",
+            "position": "51080",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 0:54",
+            "label": "Header",
+            "position": "54000",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 0:54",
+            "label": "Header",
+            "position": "54000",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 2:20",
+            "label": "Cross",
+            "position": "140920",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 3:27",
+            "label": "Goal Kick",
+            "position": "207720",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 3:30",
+            "label": "Header",
+            "position": "210600",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 3:30",
+            "label": "Header",
+            "position": "210640",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 3:32",
+            "label": "Header",
+            "position": "212640",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 3:32",
+            "label": "Header",
+            "position": "212640",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 3:45",
+            "label": "Throw In",
+            "position": "225920",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 5:44",
+            "label": "Throw In",
+            "position": "344400",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 5:55",
+            "label": "Throw In",
+            "position": "355600",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 6:07",
+            "label": "Throw In",
+            "position": "367240",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 6:24",
+            "label": "Goal Kick",
+            "position": "384360",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 7:03",
+            "label": "Shot",
+            "position": "423280",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 7:24",
+            "label": "Shot",
+            "position": "444360",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 7:28",
+            "label": "Cross",
+            "position": "448440",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 7:55",
+            "label": "Header",
+            "position": "475520",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 7:55",
+            "label": "Header",
+            "position": "475520",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 11:19",
+            "label": "Header",
+            "position": "679480",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 11:19",
+            "label": "Header",
+            "position": "679480",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 11:21",
+            "label": "Header",
+            "position": "681840",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 11:21",
+            "label": "Header",
+            "position": "681840",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 11:45",
+            "label": "Throw In",
+            "position": "705160",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 12:02",
+            "label": "Throw In",
+            "position": "722880",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 12:53",
+            "label": "Cross",
+            "position": "773480",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 12:55",
+            "label": "Header",
+            "position": "775520",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 12:55",
+            "label": "Header",
+            "position": "775520",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 13:31",
+            "label": "Throw In",
+            "position": "811040",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 14:00",
+            "label": "Throw In",
+            "position": "840560",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 14:15",
+            "label": "Throw In",
+            "position": "855520",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 15:43",
+            "label": "Goal Kick",
+            "position": "943720",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 15:46",
+            "label": "Header",
+            "position": "946600",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 15:46",
+            "label": "Header",
+            "position": "946640",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 16:05",
+            "label": "Cross",
+            "position": "965840",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 16:16",
+            "label": "Cross",
+            "position": "976800",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 16:41",
+            "label": "Goal Kick",
+            "position": "1001520",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 17:56",
+            "label": "Goal Kick",
+            "position": "1076600",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 18:21",
+            "label": "Throw In",
+            "position": "1101520",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 19:09",
+            "label": "Cross",
+            "position": "1149080",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 20:04",
+            "label": "Free Kick",
+            "position": "1204080",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 20:16",
+            "label": "Cross",
+            "position": "1216640",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 21:01",
+            "label": "Throw In",
+            "position": "1261840",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 21:56",
+            "label": "Header",
+            "position": "1316560",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 21:56",
+            "label": "Header",
+            "position": "1316560",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 23:17",
+            "label": "Free Kick",
+            "position": "1397040",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 23:58",
+            "label": "Cross",
+            "position": "1438160",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 24:15",
+            "label": "Header",
+            "position": "1455840",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 24:15",
+            "label": "Header",
+            "position": "1455920",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 25:04",
+            "label": "Throw In",
+            "position": "1504160",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 25:33",
+            "label": "Goal Kick",
+            "position": "1533320",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 25:36",
+            "label": "Header",
+            "position": "1536440",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 25:36",
+            "label": "Header",
+            "position": "1536480",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 27:26",
+            "label": "Cross",
+            "position": "1646520",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 27:38",
+            "label": "Throw In",
+            "position": "1658080",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 28:26",
+            "label": "Shot",
+            "position": "1706760",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 29:08",
+            "label": "Throw In",
+            "position": "1748160",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 29:47",
+            "label": "Cross",
+            "position": "1787080",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 29:52",
+            "label": "Shot",
+            "position": "1792200",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 30:23",
+            "label": "Header",
+            "position": "1823600",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 30:23",
+            "label": "Header",
+            "position": "1823640",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 30:25",
+            "label": "Shot",
+            "position": "1825280",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 30:31",
+            "label": "Cross",
+            "position": "1831760",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 31:08",
+            "label": "Shot",
+            "position": "1868640",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 31:48",
+            "label": "Shot",
+            "position": "1908720",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 32:08",
+            "label": "Goal",
+            "position": "1928320",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 33:04",
+            "label": "Shot",
+            "position": "1984800",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 33:08",
+            "label": "Cross",
+            "position": "1988160",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 34:09",
+            "label": "Free Kick",
+            "position": "2049360",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 34:43",
+            "label": "Throw In",
+            "position": "2083040",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 35:12",
+            "label": "Cross",
+            "position": "2112720",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 35:43",
+            "label": "Goal Kick",
+            "position": "2143160",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 36:34",
+            "label": "Corner Kick",
+            "position": "2194960",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 36:36",
+            "label": "Header",
+            "position": "2196480",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 36:36",
+            "label": "Header",
+            "position": "2196480",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 37:36",
+            "label": "Throw In",
+            "position": "2256560",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 37:43",
+            "label": "Cross",
+            "position": "2263200",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 38:38",
+            "label": "Throw In",
+            "position": "2318800",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 38:41",
+            "label": "Header",
+            "position": "2321880",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 38:41",
+            "label": "Header",
+            "position": "2321920",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 40:51",
+            "label": "Shot",
+            "position": "2451240",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 40:54",
+            "label": "Cross",
+            "position": "2454960",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 40:56",
+            "label": "Header",
+            "position": "2456840",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 40:56",
+            "label": "Header",
+            "position": "2456840",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 41:20",
+            "label": "Goal Kick",
+            "position": "2480520",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 41:23",
+            "label": "Header",
+            "position": "2483200",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 41:23",
+            "label": "Header",
+            "position": "2483240",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 42:06",
+            "label": "Throw In",
+            "position": "2526600",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 42:08",
+            "label": "Header",
+            "position": "2528400",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 42:08",
+            "label": "Header",
+            "position": "2528560",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 42:17",
+            "label": "Free Kick",
+            "position": "2537480",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 43:23",
+            "label": "Shot",
+            "position": "2603840",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 44:17",
+            "label": "Cross",
+            "position": "2657800",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 45:17",
+            "label": "Shot",
+            "position": "2717560",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 45:50",
+            "label": "Corner Kick",
+            "position": "2750080",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 45:52",
+            "label": "Header",
+            "position": "2752520",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 45:52",
+            "label": "Header",
+            "position": "2752600",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 46:19",
+            "label": "Corner Kick",
+            "position": "2779600",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 46:21",
+            "label": "Header",
+            "position": "2781720",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 46:21",
+            "label": "Header",
+            "position": "2781720",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 46:43",
+            "label": "Throw In",
+            "position": "2803920",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 47:08",
+            "label": "Throw In",
+            "position": "2828000",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "1 - 48:01",
+            "label": "Cross",
+            "position": "2881400",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 45:43",
+            "label": "Throw In",
+            "position": "2743600",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 46:19",
+            "label": "Free Kick",
+            "position": "2779240",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 46:43",
+            "label": "Throw In",
+            "position": "2803560",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 47:33",
+            "label": "Cross",
+            "position": "2853040",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 47:35",
+            "label": "Goal",
+            "position": "2855640",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 49:14",
+            "label": "Header",
+            "position": "2954160",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 49:14",
+            "label": "Header",
+            "position": "2954160",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 49:19",
+            "label": "Shot",
+            "position": "2959920",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 49:30",
+            "label": "Throw In",
+            "position": "2970560",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 50:23",
+            "label": "Cross",
+            "position": "3023080",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 50:48",
+            "label": "Throw In",
+            "position": "3048800",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 51:10",
+            "label": "Free Kick",
+            "position": "3070120",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 51:31",
+            "label": "Header",
+            "position": "3091400",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 51:31",
+            "label": "Header",
+            "position": "3091480",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 51:55",
+            "label": "Cross",
+            "position": "3115480",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 52:35",
+            "label": "Header",
+            "position": "3155240",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 52:35",
+            "label": "Header",
+            "position": "3155280",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 53:01",
+            "label": "Goal Kick",
+            "position": "3181760",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 53:04",
+            "label": "Header",
+            "position": "3184480",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 53:04",
+            "label": "Header",
+            "position": "3184560",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 53:15",
+            "label": "Throw In",
+            "position": "3195200",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 53:40",
+            "label": "Cross",
+            "position": "3220960",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 54:12",
+            "label": "Corner Kick",
+            "position": "3252120",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 54:14",
+            "label": "Header",
+            "position": "3254360",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 54:14",
+            "label": "Header",
+            "position": "3254360",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 55:12",
+            "label": "Throw In",
+            "position": "3312960",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 55:24",
+            "label": "Cross",
+            "position": "3324240",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 55:26",
+            "label": "Shot",
+            "position": "3326160",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 55:45",
+            "label": "Goal Kick",
+            "position": "3345080",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 56:13",
+            "label": "Free Kick",
+            "position": "3373240",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 56:41",
+            "label": "Throw In",
+            "position": "3401800",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 56:57",
+            "label": "Throw In",
+            "position": "3417040",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 57:25",
+            "label": "Cross",
+            "position": "3445320",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 57:26",
+            "label": "Header",
+            "position": "3446800",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 57:26",
+            "label": "Header",
+            "position": "3446880",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 57:47",
+            "label": "Goal Kick",
+            "position": "3467360",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 57:50",
+            "label": "Header",
+            "position": "3470280",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 57:50",
+            "label": "Header",
+            "position": "3470360",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 58:17",
+            "label": "Cross",
+            "position": "3497240",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 58:58",
+            "label": "Goal Kick",
+            "position": "3538280",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 59:42",
+            "label": "Throw In",
+            "position": "3582840",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 60:48",
+            "label": "Cross",
+            "position": "3648400",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 61:42",
+            "label": "Cross",
+            "position": "3702400",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 61:46",
+            "label": "Cross",
+            "position": "3706320",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 63:43",
+            "label": "Throw In",
+            "position": "3823440",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 65:36",
+            "label": "Goal Kick",
+            "position": "3936640",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 65:55",
+            "label": "Throw In",
+            "position": "3955880",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 66:39",
+            "label": "Goal Kick",
+            "position": "3999360",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 67:09",
+            "label": "Cross",
+            "position": "4029800",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 67:10",
+            "label": "Goal",
+            "position": "4030920",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 68:49",
+            "label": "Header",
+            "position": "4129600",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 68:49",
+            "label": "Header",
+            "position": "4129600",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 68:57",
+            "label": "Shot",
+            "position": "4137240",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 69:32",
+            "label": "Goal Kick",
+            "position": "4172160",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 70:49",
+            "label": "Shot",
+            "position": "4249480",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 71:07",
+            "label": "Goal Kick",
+            "position": "4267480",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 71:15",
+            "label": "Header",
+            "position": "4275080",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 71:15",
+            "label": "Header",
+            "position": "4275120",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 71:17",
+            "label": "Header",
+            "position": "4277400",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 71:17",
+            "label": "Header",
+            "position": "4277400",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 71:38",
+            "label": "Throw In",
+            "position": "4298320",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 73:32",
+            "label": "Cross",
+            "position": "4412040",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 73:55",
+            "label": "Throw In",
+            "position": "4435560",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 75:11",
+            "label": "Shot",
+            "position": "4511440",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 75:24",
+            "label": "Free Kick",
+            "position": "4524960",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 76:58",
+            "label": "Goal Kick",
+            "position": "4618240",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 77:47",
+            "label": "Throw In",
+            "position": "4667080",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 78:31",
+            "label": "Cross",
+            "position": "4711520",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 78:57",
+            "label": "Goal Kick",
+            "position": "4737680",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 79:00",
+            "label": "Header",
+            "position": "4740840",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 79:00",
+            "label": "Header",
+            "position": "4740840",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 79:10",
+            "label": "Cross",
+            "position": "4750760",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 79:58",
+            "label": "Throw In",
+            "position": "4798160",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 80:18",
+            "label": "Free Kick",
+            "position": "4818040",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 81:29",
+            "label": "Cross",
+            "position": "4889800",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 81:34",
+            "label": "Shot",
+            "position": "4894400",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 81:42",
+            "label": "Cross",
+            "position": "4902800",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 82:10",
+            "label": "Cross",
+            "position": "4930280",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 82:47",
+            "label": "Corner Kick",
+            "position": "4967120",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 84:58",
+            "label": "Goal Kick",
+            "position": "5098240",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 85:38",
+            "label": "Free Kick",
+            "position": "5138680",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 86:10",
+            "label": "Throw In",
+            "position": "5170520",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 86:28",
+            "label": "Throw In",
+            "position": "5188120",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 86:58",
+            "label": "Free Kick",
+            "position": "5218160",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 87:17",
+            "label": "Throw In",
+            "position": "5237360",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 88:21",
+            "label": "Free Kick",
+            "position": "5301400",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 88:58",
+            "label": "Corner Kick",
+            "position": "5338000",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 88:59",
+            "label": "Header",
+            "position": "5339600",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 90:07",
+            "label": "Header",
+            "position": "5407080",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 90:07",
+            "label": "Header",
+            "position": "5407160",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 90:30",
+            "label": "Shot",
+            "position": "5430080",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 90:46",
+            "label": "Goal Kick",
+            "position": "5446120",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 91:53",
+            "label": "Goal Kick",
+            "position": "5513920",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 91:58",
+            "label": "Header",
+            "position": "5518200",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 91:58",
+            "label": "Header",
+            "position": "5518280",
+            "team": "",
+            "visibility": ""
+        },
+        {
+            "gameTime": "2 - 92:26",
+            "label": "Cross",
+            "position": "5546240",
+            "team": "",
+            "visibility": ""
+        }
+    ]
+}

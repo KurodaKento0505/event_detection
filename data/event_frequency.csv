@@ -1,0 +1,58 @@
+Event,Frequency,12_class_event,8_class_event
+passSucceeded,7521,Pass,Nan
+passReceived,6940,Pass,Nan
+passFailed,1401,Pass,Nan
+possession,1205,Nan,Nan
+intercept,596,Nan,Nan
+clearance,410,Nan,Nan
+throwIn,362,Throw In,Throw In
+tackleFailed,354,Ball Player Block,Nan
+block,349,Ball Player Block,Nan
+cutoff,326,Nan,Nan
+attackRouteStart,305,Drive,Nan
+dribbleToSpace,297,Drive,Nan
+crossFailed,235,Cross,Cross
+tackleSucceeded,215,Player Successful Tackle,Nan
+aerialDuelFailed,204,Header,Header
+aerialDuelSucceeded,200,Header,Header
+groundDuelFailed,178,Ball Player Block,Nan
+groundDuelSucceeded,175,Ball Player Block,Nan
+ballMissed,171,Nan,Nan
+changeOut,159,Nan,Nan
+changeIn,159,Nan,Nan
+goalKickSucceeded,157,Pass,Goal Kick
+freeKick,131,Free Kick,Free Kick
+foulCommitted,117,Ball Player Block,Nan
+foulConceded,117,Ball Player Block,Nan
+shot,114,Shot,Shot
+looseBallDuelFailed,87,Ball Player Block,Nan
+looseBallDuelSucceeded,82,Player Successful Tackle,Nan
+crossSucceeded,80,Cross,Cross
+shotOnTarget,76,Shot,Shot
+cornerKick,61,Cross,Corner Kick
+dribbleSucceeded,59,Drive,Nan
+dribbleFailed,54,Drive,Nan
+saveByCatching,46,Nan,Nan
+ballReceived,44,Drive,Nan
+saveByPunching,43,Nan,Nan
+goalAgainst,42,Nan,Nan
+goalKickFailed,39,Pass,Goal Kick
+hit,34,Nan,Nan
+controlUnderPressure,32,Drive,Nan
+aerialClearanceSucceeded,31,Header,Header
+goal,31,Goal,Goal
+shotBlocked,31,Shot,Shot
+offside,30,Nan,Nan
+defensiveLineSupportSucceeded,14,Nan,Nan
+crossReceived,14,Drive,Nan
+deflection,12,Nan,Nan
+pause,11,Nan,Nan
+dribbleConceded,10,Drive,Nan
+setPieceShotConceded,9,Shot,Shot
+handballFoul,8,Nan,Nan
+shotMissed,6,Shot,Shot
+penaltyKick,4,Shot,Shot
+defensiveLineSupportFailed,4,Nan,Nan
+aerialClearanceFailed,2,Header,Header
+shotSaveByForwardMovement,2,Shot,Shot
+setPieceGoalConceded,1,Goal,Goal

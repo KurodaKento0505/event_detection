@@ -1,68 +1,76 @@
-# Playbox Deep Learning Project Template
+# Event Detection
 
 ## プロジェクト概要
+サッカーの試合映像もしくはトラッキングデータからイベントを検出
 
-このテンプレートでは、Playboxのディープラーニングプロジェクトのテンプレートを提供します。
-例えば、**ボール検出**だとか**ピッチのローカリゼーション**といったタスクを対象としたテンプレです。
+### 目的
+- playboxに自動タグ付け機能を付けるための技術検証
+- フルピッチ動画に対してイベントを検出する精度を調査
+- 追加でデータを増やしたら精度があがるのか、どのくらいデータがあればいいのかを調査
 
-## 特徴
+### 検出するイベント
+<details>
+<summary>12クラス（ball action spotting）</summary>
 
-- **依存関係管理**: [uv](https://astral.sh/blog/uv) を使用した効率的なパッケージ管理。
 
-## 使い方
+</details>
+    - 
+- 8クラス（play box）
 
-以下の手順に従ってプロジェクトをセットアップしてください。
+### 手法概要
+- 選手の画像上の座標を獲得
+    - セグメンテーションすることで正確な位置座標の取得
+- ピッチ座標に変換（ここではやらない）
 
-### ステップ 1: リポジトリの作成
+### 具体的な手法
+1. YOLOv10をファインチューニング
+1. SAM2をファインチューニング
+1. ファインチューニング済みのYOLOv10を用いて，最初のフレームからbboxを獲得
+1. ファインチューニング済みのSAM2に最初のフレームのbboxをプロンプトとして付与
+1. SAM2を用いてセグメンテーション
+1. 得られたマスクから画像上の位置を推定（まだここまでできていない）
 
-GitHub で新しいリポジトリを作成し、このテンプレートを選択してください。
-
-### ステップ 2: リポジトリのクローン
-
-```bash
-git clone <リポジトリのURL>
-cd <プロジェクトディレクトリ>
+## プロジェクト構造
 ```
-
-### ステップ 3: プロジェクト名の変更
-
-`pyproject.toml` ファイルを開き、プロジェクト名やその他の詳細を更新してください。
-
-### ステップ 4: 依存関係のインストール
-
-```bash
-uv sync
-```
-
-これにより、本テンプレを使った仮想環境が作られます。同時に、playbox-utils パッケージがインストールされます。
-
-### ステップ 4: コードの実行
-
-```bash
-uv run python xxx.py
-```
-
-## Tips
-
-### プロジェクト構造
-
-特に統一することは求めてませんが、こんな感じだと分かりやすいです。
-```
-project_name/
-├── data/                # playboxサーバーの/share下にシンボリックリンクを作成するのが推奨
-├── notebooks/
-│   └── xxx.ipynb        # ノートブックファイル
-├── src/
-│   ├── train.py/        # トレーニング用スクリプト
-│   └── ...              # その他の関連コード
-├── tests/
-│   └── test_xxx.py      # 簡単なテスト
-├── configs/
-│   └── xxx.yaml         # 設定ファイル
-├── setup.py             # セットアップスクリプト
-├── pyproject.toml       # uv用設定ファイル
-├── Makefile             # 便利なコマンドを含むMakefile（例: `make data`や`make train`）
-└── README.md            # プロジェクトの説明書
+basketball/
+├── basketball-video-dataset/             # ここに動画を格納
+├── player_detection/
+│   ├── fine_tuned_yolo/                  # ファインチューニング済みのモデルを格納
+│   ├── predict_frame/                    # 予測した画像が格納
+│   └── tools_detection/
+│       ├── change_file_name.py
+│       ├── check_annotation.py
+│       ├── convert_bbox_label.py
+│       ├── fine_tuning_yolo.py           # main file（ファインチューニング）
+│       ├── inference_yolo.py             # main file（モデルの推論）
+│       └── make_bbox.py
+├── player_segmentation/
+│   ├── sam2/ ...                         # sam2を動かすのに必要なファイル
+│   ├── fine_tuned_sam2/                  # ファインチューニング済みのモデルを格納
+│   ├── predict_frame/                    # 予測した画像が格納
+│   ├── predict_video/                    # 予測した画像が格納
+│   └── tools_segmentation/
+│       ├── evaluate_sam2.py
+│       ├── fine_tuning_sam.py
+│       ├── fine_tuning_sam2.py           # main file（ファインチューニング）
+│       ├── gen_annotations.py
+│       ├── gen_errorbar_graph.py
+│       ├── inference_sam.py
+│       ├── inference_sam2_with_video.py  # main file（モデルの推論）
+│       ├── inference_sam2.py             # main file（モデルの推論）
+│       └── make_mask.py
+├── player_tracking/
+│   ├── sam2/ ...                         # sam2を動かすのに必要なファイル
+│   ├── predict_frame_sam2/               # 予測した画像が格納
+│   ├── predict_frame_yolo/               # 予測した画像が格納
+│   ├── predict_video/                    # 予測した画像が格納
+│   └── tools_tracking/
+│       ├── make_video.py
+│       ├── modify_tracking_id.py
+│       ├── tracking_player_sam2.py       # main file（動画に対してマスクを与え続ける）
+│       └── tracking_player_yolo.py       # main file（動画に対してbboxを与え続ける）
+├── .gitignore
+└── README.md
 ```
 
 
